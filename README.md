@@ -1,2 +1,2 @@
 # CI-CD
-Continuos Integretion and Continuos Development
+Continuous Integretion and Continuous Development
